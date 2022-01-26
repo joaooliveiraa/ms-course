@@ -1,13 +1,13 @@
-package com.oliveira.hrapigetwayzuul;
+package com.oliveira.hrapigatewayzuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HrApiGetwayZuulApplication {
+public class HrApiGatewayZuulApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HrApiGetwayZuulApplication.class, args);
+		SpringApplication.run(HrApiGatewayZuulApplication.class, args);
 	}
 
 }
