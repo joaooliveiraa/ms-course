@@ -17,4 +17,3 @@ Tecnologias utilizadas:
  - Servidor de configuração centralizada com dados em repositório Git
  - Geração de containers Docker para os microsserviços e bases de dados
 
-Link para acesso: https://github.com/joaooliveiraa/ms-course
