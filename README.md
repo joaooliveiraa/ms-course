@@ -1,6 +1,8 @@
 #  Microsserviços Java com Spring Boot e Spring Cloud
 
-Projeto criado durante o curso <a href=“https://www.udemy.com/course/microsservicos-java-spring-cloud/“>Curso Microsserviços Java com Spring Boot e Spring Cloud</a> onde foi possível ter uma introdução a algumas das principais ferramentas do Spring Cloud para estruturação de um sistema em microsserviços, tanto como criar microsserviços escaláveis, com resolução de nomes e balanceamento de carga de forma transparente, usando servidor Eureka.
+Projeto criado durante o curso [Microsserviços Java com Spring Boot e Spring Cloud](https://www.udemy.com/course/microsservicos-java-spring-cloud)
+onde foi possível ter uma introdução a algumas das principais ferramentas do Spring Cloud para estruturação de um sistema em microsserviços, tanto como criar microsserviços escaláveis, com resolução de nomes e balanceamento de carga de forma transparente, usando servidor Eureka.
+
 
 ![Screenshot](layout.PNG)
 
